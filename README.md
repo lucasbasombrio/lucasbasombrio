@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Lucas Basombrío
 
 🎓 Estudiante del último cuatrimestre de la tecnicatura en Análisis de Sistemas (ORT Argentina)  
-🚀 Buscando mi primera oportunidad en IT como **Backend / Frontend Jr.** o **Analista funcional**
+🚀 Buscando mi primera oportunidad en IT como **Backend / Frontend Jr.**, **Analista funcional** o **QA**
 
 ## 🔧 Tecnologías y herramientas
 - 💻 Java (nivel junior), .NET (básico), SQL, HTML, CSS
