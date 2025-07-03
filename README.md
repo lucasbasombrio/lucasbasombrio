@@ -14,7 +14,7 @@
 - UADE – Hotelería y Turismo (1 año)
 
 ## 📌 Proyectos destacados
-- **Proyecto profesional con empresa BDT** (Abril-Julio 2025): Desarrollo de aplicación real usando ReactJS, .NET, Python y MySQL. Principalmente participé en el análisis funcional y frontend.
+- **Proyecto profesional con empresa BDT** (Abril-Julio 2025): Desarrollo de aplicación real usando ReactJS, .NET, Python y MySQL. Principalmente participé en el análisis funcional, frontend y modulo de la IA.
 
 ---
 
