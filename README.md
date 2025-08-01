@@ -19,4 +19,4 @@
 ---
 
 📫 Contacto: [basombrio.lucas5@gmail.com](mailto:basombrio.lucas5@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/lucas-basombrio/](https://www.linkedin.com/in/lucas-basombrio/)
+🔗 LinkedIn: [linkedin.com/in/lucas-basombrio/](linkedin.com/in/lucas-basombrio/)
