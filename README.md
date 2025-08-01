@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Lucas Basombrío
 
-🎓 Estudiante del último cuatrimestre de la tecnicatura en Análisis de Sistemas (ORT Argentina)  
+🎓 Recibido de Analista de Sistemas en ORT Argentina
 🚀 Buscando mi primera oportunidad en IT como **Backend / Frontend Jr.**, **Analista funcional** o **QA**
 
 ## 🔧 Tecnologías y herramientas
@@ -9,12 +9,12 @@
 - 🛠️ Git, GitHub, MySQL, Excel
 
 ## 📚 Formación
-- ORT Argentina – Analista de Sistemas (en curso)
+- ORT Argentina – Analista de Sistemas
 - CoderHouse – Curso de Desarrollo Web
 - UADE – Hotelería y Turismo (1 año)
 
 ## 📌 Proyectos destacados
-- **Proyecto profesional con empresa BDT** (Abril-Julio 2025): Desarrollo de aplicación real usando ReactJS, .NET, Python y MySQL. Principalmente participé en el análisis funcional, frontend y modulo de la IA.
+- **Proyecto profesional con empresa BDT** (Abril-Julio 2025): Desarrollo de aplicación real usando ReactJS, .NET, Python y MySQL. Principalmente participé en el análisis funcional, frontend y modulo de la IA.  (Repositorios privado por confidencialidad)
 
 ---
 
