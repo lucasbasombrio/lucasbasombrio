@@ -1,6 +1,6 @@
 #  👋 ¡Hola! Soy Lucas Basombrío
 
-🎓 Analista de Sistemas - ORT Argentina
+🎓 Analista de Sistemas - ORT Argentina  
 🚀 Buscando mi primera oportunidad en IT como QA Jr. o Dev Jr.
 
 ## 🔧 Tecnologías y herramientas
