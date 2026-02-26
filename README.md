@@ -1,22 +1,64 @@
-#  👋 ¡Hola! Soy Lucas Basombrío
+# 👋 Hola, soy Lucas Basombrio
 
-🎓 Analista de Sistemas - ORT Argentina  
-🚀 Buscando mi primera oportunidad en IT como QA Jr. o Dev Jr.
-
-## 🔧 Tecnologías y herramientas
-- 💻 Python, JavaScript, SQL, HTML, CSS
-
-## 📚 Formación
-- ORT Argentina – Analista de Sistemas
-- CoderHouse – Curso de Desarrollo Web
-- UADE – Hotelería y Turismo (1 año)
-
-## 📖 Cursos en curso
-- Python (Udemy)
-- QA Engineer (Udemy)
-- Servicio Técnico (Udemy)
+QA Junior enfocado en **Software Testing, APIs y automatización**.  
+Actualmente construyendo proyectos prácticos para mi portfolio mientras busco mi primera oportunidad en IT.
 
 ---
+
+## 🧪 En qué estoy enfocado
+- Testing Manual
+- Testing de APIs
+- Automatización E2E
+- Análisis funcional
+- Reporte de bugs y documentación
+
+---
+
+## ⚙️ Tecnologías y herramientas
+
+**Testing**
+- Cypress (aprendiendo)
+- Postman
+- Testing de APIs REST
+- Diseño de casos de prueba
+
+**Lenguajes**
+- Python
+- JavaScript
+- SQL
+
+**Web**
+- HTML
+- CSS
+
+**Herramientas**
+- Git & GitHub
+- Jira / Azure Boards
+- MySQL
+
+---
+
+## 🚀 Proyecto destacado
+
+### RepoSum
+Analizador de repositorios impulsado por IA que genera:
+- Resumen de arquitectura
+- Detección de riesgos
+- Sugerencias de mejora
+- Insights del código
+
+👉 [https://lucasbasombrio.github.io/](https://lucasbasombrio.github.io/)  
+
+---
+
+## 📚 Actualmente aprendiendo
+- Cypress Automation
+- QA Engineering
+- Mejores prácticas de testing
+
+---
+
+## 📫 Contacto
 
 💼 Portafolio: [https://lucasbasombrio.github.io/](https://lucasbasombrio.github.io/)  
 📫 Contacto: [basombrio.lucas5@gmail.com](mailto:basombrio.lucas5@gmail.com)  
